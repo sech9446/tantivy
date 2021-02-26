@@ -123,6 +123,7 @@ mod facet_tokenizer;
 mod lower_caser;
 mod ngram_tokenizer;
 mod raw_tokenizer;
+mod regex_filter;
 mod remove_long;
 mod simple_tokenizer;
 mod stemmer;
